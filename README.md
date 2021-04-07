@@ -21,4 +21,4 @@ strucutures: contain structures files of all materials.
 
 1.0: my example working file for CGCNN. You should pay attention to the training.py for the working procedure of how I run CGCNN and follow the procedure to run multitask learning. 
 
-Example of multi-task learning can be found at 
+Example of multi-task learning can be found at https://github.com/soumyasanyal/mt-cgcnn
