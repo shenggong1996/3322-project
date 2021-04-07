@@ -11,6 +11,8 @@ https://docs.google.com/document/d/1OZc1JiTa3cgF5nNISI_90mE4I0GIULuRVza5pm4_Dg0/
 
 New: multitask learning of the ionic and electronic contributions
 
+Data: https://drive.google.com/file/d/1up4g6EAMvsod21o6FDGbxMoPDbkPLOvm/view?usp=sharing
+
 Note: here all the dataset and running codes are based on CGCNN style. You should convert them into multi-task style.
 
 dataset: containing the split of training data. You should run multitask learning for each ratio with ionic and elec together.
